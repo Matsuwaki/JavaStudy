@@ -8,11 +8,6 @@
 	background-color: #141f40;
 }
 
-.main{
-    height: 250px;
-	margin:0 auto;
-}
-
 .side {
 	float: left;
 	width: 150px;
@@ -116,14 +111,14 @@
         width: 150px; 
         float: none;
     }
-    .content-top-left-bottom {
-        width: 150px; 
-        float: none;
-    }	
     .content-top-right {
         width: 150px; 
         float: none;
     }
+    .content-top-left-bottom {
+        width: 150px; 
+        float: none;
+    }	
     .content-bottom {
         width: 150px; 
         float: none;
