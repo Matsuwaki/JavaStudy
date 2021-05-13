@@ -23,17 +23,16 @@
   
 .top1 {
     top:20px;
-    bottom:20px;
+    bottom:10px;
 }
   
 .top2 {
     top:20px;
-    bottom:20px; 
 }
   
 .top3 {
     top:20px;
-    bottom:20px;  
+    bottom:10px;  
 }
 
 .main {
@@ -74,7 +73,6 @@
 .right2{
     position: relative;
     top:45px;
-    bottom:5px;
 }
   
 .right3{
